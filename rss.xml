@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marketing]]></title>
+        <description><![CDATA[Marketing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 12:28:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Einfluss im Social Web: Wir bloggen über Strategien und Erfolgsfaktoren!]]></title>
+            <description><![CDATA[<article><h1>Einfluss im Social Web: Wir bloggen über Strategien und Erfolgsfaktoren!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfe311cc-2fb3-499b-8554-38d9145b1f74.png"></article>]]></description>
+            <link>http://blog.einflussreich.ch/</link>
+            <guid isPermaLink="false">d33b60da-bb7d-4ac4-bff2-9d6a3081ceea</guid>
+            <pubDate>Fri, 01 Jul 2016 12:27:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
